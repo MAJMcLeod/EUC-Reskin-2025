@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="124" viewBox="0 0 124 124" fill="none">
+  <g clip-path="url(#clip0_20_2623)">
+    <path d="M61.79 123.58C95.9157 123.58 123.58 95.9157 123.58 61.79C123.58 27.6643 95.9157 0 61.79 0C27.6643 0 0 27.6643 0 61.79C0 95.9157 27.6643 123.58 61.79 123.58Z" fill="url(#paint0_linear_20_2623)"></path>
+    <path d="M61.79 11.5C89.57 11.5 112.09 34.02 112.09 61.8C112.09 89.58 89.57 112.1 61.79 112.1C34.01 112.1 11.5 89.57 11.5 61.79C11.5 34.01 34.01 11.5 61.79 11.5ZM61.79 7.5C31.85 7.5 7.5 31.85 7.5 61.79C7.5 91.73 31.86 116.09 61.8 116.09C91.74 116.09 116.1 91.73 116.1 61.79C116.1 31.85 91.73 7.5 61.79 7.5Z" fill="white"></path>
+    <path d="M44.93 21.0701L42.55 15.3301" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M81.0399 108.26L78.6599 102.52" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M81.0399 15.3301L78.6599 21.0701" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M44.93 102.52L42.55 108.26" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M108.26 42.55L102.52 44.93" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M21.0701 78.6599L15.3301 81.0399" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M108.26 81.0399L102.52 78.6599" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M21.0701 44.93L15.3301 42.55" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M61.8 17.73V11.5" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M61.8 112.09V105.86" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M97.36 26.23L92.95 30.64" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M30.64 92.95L26.23 97.36" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M112.09 61.8H105.86" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M17.73 61.8H11.5" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M97.36 97.36L92.95 92.95" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M30.64 30.64L26.23 26.23" stroke="white" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M37.7472 48.1H58.9912V53.599L47.8522 81H40.9902L51.8002 54.304H37.7472V48.1ZM74.0643 81.658C65.6983 81.658 60.9043 74.702 60.9043 64.55C60.9043 54.398 65.6983 47.442 74.0643 47.442C82.4773 47.442 87.2243 54.398 87.2243 64.55C87.2243 74.702 82.4773 81.658 74.0643 81.658ZM74.0643 75.313C78.4823 75.313 80.7853 71.506 80.7853 64.55C80.7853 57.594 78.4823 53.74 74.0643 53.74C69.6463 53.74 67.3903 57.594 67.3903 64.55C67.3903 71.506 69.6463 75.313 74.0643 75.313Z" fill="white"></path>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear_20_2623" x1="13.89" y1="114.04" x2="113.28" y2="5.62" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6441E"></stop>
+      <stop offset="1" stop-color="#FEF252"></stop>
+    </linearGradient>
+    <clipPath id="clip0_20_2623">
+      <rect width="123.58" height="123.58" fill="white"></rect>
+    </clipPath>
+  </defs>
+</svg>
